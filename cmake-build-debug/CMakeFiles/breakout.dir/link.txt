@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/breakout.dir/src/main.cpp.o CMakeFiles/breakout.dir/src/config/Config.cpp.o CMakeFiles/breakout.dir/src/logger/logger.cpp.o  -o breakout -lsfml-graphics -lsfml-window -lsfml-system -lpthread -lX11 
